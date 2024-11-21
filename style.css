@@ -87,7 +87,7 @@ body {
     text-align: center;
     padding: 25%;
     padding-top: 80px;
-    padding-bottom: 80px;
+    padding-bottom: 0px;
     font-size: 36px;
     font-weight: 900;
     color: #4b0423;
@@ -98,7 +98,7 @@ body {
     justify-content: center;
     gap: 100px;
     list-style: none;
-    font-size: 16px;
+    font-size: 14px;
     font-weight: 100;
     color: #4b0423;
 }
@@ -108,9 +108,10 @@ body {
 }
 
 .info ul div {
-    height: 150px;
-    width: 150px;
+    height: 175px;
+    width: 175px;
     border-radius: 12px;
+    margin-bottom: 5px;
 }
 
 .content {
